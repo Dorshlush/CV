@@ -3,6 +3,7 @@ import './projects.css'
 import IMG1 from '../../assets/barberapp.jpg'
 import IMG2 from '../../assets/textGenerator.jpg'
 import IMG3 from '../../assets/taxCalc.jpg'
+import IMG4 from "../../assets/IMG4.jpg"
 
 
 
@@ -33,6 +34,14 @@ const data = [
     desc: 'This is a tax calculator app, with registartion system that can calculate your tax credit points',
     github: "https://github.com/Dorshlush/TaxCalc",
     demo: "https://main.d1nated7mvx2mc.amplifyapp.com"
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Simple Weather app',
+    desc: "Basic weather app utilizing an external API, designed with pure vanilla CSS for a fully responsive experience.",
+    github: "https://github.com/Dorshlush/weatherApp",
+    demo: "https://main.d10vajciimkfsc.amplifyapp.com"
   },
 
 
